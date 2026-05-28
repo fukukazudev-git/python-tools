@@ -9,6 +9,6 @@
     "python.analysis.typeCheckingMode": "basic",
     "python.analysis.autoImportCompletions": true,
     "python.dataScience.enabled": false,
-    "terminal.integrated.defaultProfile.windows": "PowerShell"
-    // TODO: pip install black
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "python.terminal.activateEnvInCurrentTerminal": true
 }
